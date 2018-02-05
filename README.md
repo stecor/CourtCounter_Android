@@ -1,9 +1,6 @@
 # CourtCounter_Android
 
 
-Court Counter Sample App
-======================
-
 ![Screenshot](screenshot.png)
 
 Keeps track of basketball scores for two teams. 
