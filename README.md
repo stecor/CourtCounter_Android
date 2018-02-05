@@ -1,4 +1,7 @@
 # CourtCounter_Android
+
+
+Court Counter Sample App
 ======================
 
 ![Screenshot](screenshot.png)
